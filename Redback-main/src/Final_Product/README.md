@@ -1,0 +1,5 @@
+- Use the Database_creation to generate the database
+- Run the main program to start the back-end server
+- Use postman to send a PDF file to the back-end port
+- import DB_API library to extract the data from the database
+- The detailed information of running the whole system can be viewed here:  [https://github.com/COMP90082-2022-SM2/Redback/tree/main/tests/Task%203.1]
